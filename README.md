@@ -10,7 +10,7 @@ As part of my current work, I engineer data pipelines to integrate external data
 This is the python script, written in an object-oriented style, that extracts specific data from flat-files and uploads it into our EDW.<br><br>
 2.	*"RashmiMariyappa_2_Pipeline_KPIPresentation"*<br>
 This is an excerpt of a presentation I put together for my team on a complex back-end data pipeline that I re-engineered.<br><br>
-3.	*"RashmiMariyappa_3_Pipeline_SQLSample"*<br>
+3.	*"RashmiMariyappa_3_Pipeline_SQLSamples"*<br>
 This is a small sample of SQL work of mine. This last entry is one (of many) views in the KPI Pipeline in the presentation in this repository. There are also 2 other sample SQL queries.<br><br>
 
 
